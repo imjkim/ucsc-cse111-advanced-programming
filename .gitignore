@@ -1,0 +1,10 @@
+*.o
+ydc
+yshell
+keyvalue
+cxi
+cxid
+Makefile.dep
+!asg2-shell-fnptrs-oop/Makefile.dep
+!asg4-client-server/Makefile.dep
+.vscode/
